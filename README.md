@@ -1,17 +1,37 @@
-# YOLOv3 CoreML
+# YOLO-v3-COCO-CoreML
 
-[Paper on YOLOv3](https://arxiv.org/abs/1804.02767)
+YOLOv3 on COCO dataset in CoreML with Vision implemented for iPhone iOS in Swift focusing on YOLOv3 CoreML, YOLOv3 on COCO dataset.
 
-[Darknet Github](https://github.com/pjreddie/darknet)
+## Overview
 
-[Darknet Website](https://pjreddie.com/darknet/)
+This repository contains a Swift project.
 
-The [converted CoreML model](https://github.com/0xPr0xy/YOLO-v3-COCO-CoreML/blob/master/YOLO-CoreML/yolo.mlmodel) is included in this repository
+## Features
 
-## YOLOv3 on COCO dataset
+- Feature 1
+- Feature 2
+- Feature 3
 
-Demo application is functional and contained in this repo.
+## Installation
 
-Preview:
+```bash
+# Add installation instructions here
+```
 
-![](preview.png)
+## Usage
+
+```bash
+# Add usage examples here
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Keywords
+
+coreml, coco, swift, yolo
